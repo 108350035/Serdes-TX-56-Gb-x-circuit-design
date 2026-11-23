@@ -1,0 +1,17 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Mon Oct 26 11:39:54 2026 
+Best design point: 1
+Design specs: 
+	TX:test:1	corner	TT - 
+	TX:test:1	corner	FF - 
+	TX:test:1	corner	SS - 
+Design parameters: 
+	x		500m
+	fs		1G
+
+Interactive.13
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.13 completed. 
+Current time: Mon Oct 26 11:40:16 2026 
